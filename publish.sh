@@ -14,6 +14,9 @@ cp ./deploy/.nojekyll ./docs/.nojekyll
 git config user.name "Art"
 git config user.email "thisguytrades@gmail.com"
 
+# Add remote that uses correct SSH key
+git remote add thisguytrades git@thisguytrades:thisguytrades/thisguytrades.com.git
+
 # Commit and push
 git checkout master
 git add .
