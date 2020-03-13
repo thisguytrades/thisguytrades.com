@@ -7,6 +7,9 @@
 cp ./deploy/CNAME ./docs/CNAME
 cp ./deploy/.nojekyll ./docs/.nojekyll
 
+# Copy all static files and subdirectories
+# cp -R ./static/* ./docs/
+
 # Set user
 git config user.name "Art"
 git config user.email "thisguytrades@gmail.com"
