@@ -14,7 +14,7 @@ cp ./deploy/.nojekyll ./docs/.nojekyll
 git config user.name "Art"
 git config user.email "thisguytrades@gmail.com"
 
-# Add remote url with correct host and username to use correct SSH key
+# Set remote url with correct host and username to use correct SSH key
 # Make sure there's a host named 'thisguytrades' in your ~/.ssh/config file
 git remote set-url origin git@thisguytrades:thisguytrades/thisguytrades.com.git
 
