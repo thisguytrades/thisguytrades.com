@@ -9,7 +9,7 @@ It's not complicated.
 Follow this plan, it’s made of three simple steps:
 + Earn money
 + Save money
-+ Buy and sell stocks with your own saved money
++ Buy and sell stocks with the money you saved
 
 That’s all. Three steps. Let’s discuss each one of them.
 
@@ -71,7 +71,7 @@ Design a lifestyle that you can tolerate and that allows you to save as much as 
 
 You saved your money. You’re now ready to buy and sell stocks to make more money.
 
-## Step 3: Buy and sell stocks with your own saved money
+## Step 3: Buy and sell stocks with the money you saved
 
 When you’re buying a stock you’re exchanging money for shares in a company.
 When you’re selling a stock you’re exchanging shares in a company for money.
