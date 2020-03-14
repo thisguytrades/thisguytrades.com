@@ -67,7 +67,7 @@ Yet, you want to spend as little money as you can and save as much money as you 
 
 Making money is not enough. You need to save what you make. You can’t save all 100% of your income, because life is not free, but you can save some part of your income. And the more you can save - the better.
 
-Design a lifestyle that you can tolerate and that allows you to save as much as possible. Choose the cheapest rent. Share your flat with other people. Buy essential groceries and cook your own meals at home. Invite friends over. Don’t buy TV. Don’t watch TV. Don’t watch Netflix. Buy and read books. Write about what you read. Think about what you read.  
+Design a lifestyle that you can tolerate and that allows you to save as much as possible. Choose the cheapest rent. Share your flat with other people. Buy essential groceries and cook your own meals at home. Invite friends over. Don’t buy TV. Don’t watch TV. Don't buy anything that is not essential. Instead, buy and read books. Write about what you read. Think about what you read. Connect with like-minded people. Make new friends.
 
 You saved your money. You’re now ready to buy and sell stocks to make more money.
 
