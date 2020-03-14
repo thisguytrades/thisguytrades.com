@@ -105,9 +105,9 @@ How do you buy and sell shares?
 You need to open a stock trading account with a stock trading broker.
 
 I use three different brokers in the UK:
-+ [Freetrade](https://freetrade.io/freeshare?code=HXL1PCFK0N&sender=YxfmwwRA) - I am an investor. Follow the link to get a free share.
-+ [Trading 212](http://www.trading212.com/invite/FMXVupQC) - follow the link to get a free share.
-+ [InteractiveBrokers](https://www.interactivebrokers.co.uk/) - no free share from these guys unfortunately.
++ [Freetrade](https://freetrade.io/freeshare?code=HXL1PCFK0N&sender=YxfmwwRA) - I am an investor and a user. Follow the link to get a free share.
++ [Trading 212](http://www.trading212.com/invite/FMXVupQC) - I am a user. Follow the link to get a free share.
++ [InteractiveBrokers](https://www.interactivebrokers.co.uk/) - I am a user. No free share from these guys, unfortunately.
 
 [Freetrade](https://freetrade.io/freeshare?code=HXL1PCFK0N&sender=YxfmwwRA) is the easiest and the cheapest out of all three to use. Once you open an account with them, the next step is to deposit your saved money.
 
