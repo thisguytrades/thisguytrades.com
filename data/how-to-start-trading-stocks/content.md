@@ -28,7 +28,7 @@ Spend your time and health on learning and practicing skills that other people a
 How?
 
 Here’s a list of things for you to do every single day:
-+ Read a book or watch a course or hire an expert
++ Read a book or watch a course or talk to an expert
 + Practice what you’ve read and what you’ve watched
 + Market your skills
 
