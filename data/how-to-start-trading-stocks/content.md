@@ -13,7 +13,7 @@ Follow this plan, it’s made of three simple steps:
 
 That’s all. Three steps. Let’s discuss each one of them.
 
-## Step 1: Earn Money
+## Step 1: Earn money
 
 Your most valuable resources are your health and your time. They’re your gold. Protect them unapologetically. The quality of your life depends on them. Think about it for a second. Let it sink in.
 
@@ -59,7 +59,7 @@ Connect with recruiters, discuss job opportunities, prepare and go to interviews
 
 This is the end of the step one - you’re now earning money.
 
-## Step 2: Save Money
+## Step 2: Save money
 
 Life is not free. It costs money. The more money you have, the better life you can afford.
 
