@@ -1,6 +1,6 @@
 # How To Start Trading Stocks
 
-__First things first: this is not financial advice. This is for educational and entertainment purposes only.__
+_First things first: this is not financial advice. This is for educational and entertainment purposes only._
 
 How to start trading stocks?
 
