@@ -127,8 +127,4 @@ Make a plan. Try to follow that plan. Get experience and learn from it.
 
 Stock trading is not an easy ride, but it’s a fun one.
 
-Leave a comment if you have any follow up questions.
-
-This Guy Trades
-
-I hope you've enjoyed this article and I would love to hear your feedback in the comments. You can get in touch with me via [email](mailto:thisguytrades@gmail.com) too.
+Leave a comment if you have any follow up questions or get in touch with me via [email](mailto:thisguytrades@gmail.com).
