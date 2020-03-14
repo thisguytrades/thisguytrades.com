@@ -31,7 +31,7 @@ When expected best annual return is reached, start selling faster.
 
 Never sell for loss, unless company's fundamentals change.
 
-And that's all.
+And that's all there is to it.
 
 Leave a comment if you have any follow up questions or get in touch with me via email: [thisguytrades@gmail.com](mailto:thisguytrades@gmail.com).
 
