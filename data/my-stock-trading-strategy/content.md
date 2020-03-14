@@ -2,13 +2,13 @@
 
 _First things first: this is not financial advice. This is for educational and entertainment purposes only._
 
-Deciding on how you will trade stocks before you start trading stocks is important. This is the time when you make rational, logical, informed decisions, when your emotions don't get in a way.
+It's important to decide how you will trade stocks before you start trading stocks. Choose the time when you make rational, logical, informed decisions, when your emotions don't get in a way.
 
 When you have a stock trading plan in place, you're less effected by the emotions that you'll feel when the stock market goes up and down.
 
 And it will go up and down. Unpredictably.
 
-Here're the things that you need to decide on before you start buying shares:
+Here are the things that you need to decide on before you start buying shares:
 1. When do want to sell: the best case and the worst case.
 2. What profit you would like to get: the best case and the worst case.
 3. Can you afford to lose some or all of your invested money?
