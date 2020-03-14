@@ -64,7 +64,6 @@ strong {
   .post-page p {
     margin: 20px 0 0 0;
     line-height: 1.6em;
-    font-weight: 100;
     font-size: 1.2em; }
   .post-page pre {
     margin: 20px 0;
@@ -74,7 +73,8 @@ strong {
   .post-page ol,
   .post-page ul {
     margin-left: 40px;
-    font-weight: 100; }
+    line-height: 1.6em;
+    font-size: 1.2em; }
   .post-page figure {
     width: 100%;
     margin: 20px 0; }
