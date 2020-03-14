@@ -6,7 +6,7 @@ It's important to decide how you will trade stocks before you start trading stoc
 
 When you have a stock trading plan in place, you're less effected by the emotions that you'll feel when the stock market goes up and down.
 
-And it will go up and down. Unpredictably.
+And it will go up and down. Unpredictably. Irrationally.
 
 Here are the things that you need to decide on before you start buying shares:
 1. When do want to sell: the best case and the worst case.
