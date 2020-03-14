@@ -25,7 +25,7 @@ When the share price goes down and your portfolio is in red, i.e. it is now wort
 
 Look at the new lower price as a discount. You would buy these shares at the original price, but now the price is lower and you're getting a discount.
 
-When you're buying more at the lower price, your average price that you've paid per share is decreasing. This is called Dollar-cost averaging or DCA strategy.
+When you're buying more at the lower price, your average price that you've paid per share is decreasing. This is called Dollar-Cost Averaging or DCA strategy.
 
 Repeat this until your portfolio is in green, i.e. it is now worth more than what you have paid originally, or until you run out of money and you can't buy more shares even at a lower prices.
 
