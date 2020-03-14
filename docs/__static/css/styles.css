@@ -63,9 +63,9 @@ strong {
     padding-left: 20px; }
   .post-page p {
     margin: 20px 0 0 0;
-    line-height: 32px;
+    line-height: 1.6em;
     font-weight: 100;
-    font-size: large; }
+    font-size: 1.2em; }
   .post-page pre {
     margin: 20px 0;
     border: 0;
