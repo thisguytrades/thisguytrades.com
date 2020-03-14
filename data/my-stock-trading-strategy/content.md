@@ -2,31 +2,32 @@
 
 _First things first: this is not financial advice. This is for educational and entertainment purposes only._
 
-### Step 1
 
-Make the initial buy of equity in a small amount.
+## Step 1
 
-### Step 2
+Buy a small number of shares in the stock that you want to trade.
+
+## Step 2
 
 When in red, DCA every day until in green.
 
-### Step 3
+## Step 3
 
 When in green, but haven't reached the desired return - hold.
 
-### Step 4
+## Step 4
 
 Buy the dip, the bigger the dip, the bigger your buy order.
 
-### Step 5
+## Step 5
 
 When expected worst annual return is reached, start selling slowly.
 
-### Step 6
+## Step 6
 
 When expected best annual return is reached, start selling faster.
 
-### Step 7
+## Step 7
 
 Never sell for loss, unless company's fundamentals change.
 
