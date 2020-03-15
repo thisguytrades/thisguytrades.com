@@ -30,7 +30,7 @@ Broker fees will affect your profits, so it's beneficial for you to go with a br
 
 ## Recommendations
 
-I use three different brokers in the UK:
+I use two different brokers in the UK that are covered by FSCS:
 + [Freetrade](https://freetrade.io/freeshare?code=HXL1PCFK0N&sender=YxfmwwRA) - I am an investor and a user. Follow the link to get a free share.
 + [Trading 212](http://www.trading212.com/invite/FMXVupQC) - I am a user. Follow the link to get a free share.
 
