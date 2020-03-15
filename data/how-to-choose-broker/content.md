@@ -16,7 +16,7 @@ Use Google to find out who are the most popular stock trading brokers in your co
 
 In the UK investors have [FSCS: Financial Services Compensation Scheme](https://www.fscs.org.uk/) that covers [investments up to £85,000](https://www.fscs.org.uk/what-we-cover/investments/).  
 
-FSCS should, in theory, compensate you up to £85,000 if your broker goes out of business.
+FSCS should, in theory, compensate you up to £85,000 if your broker [goes out of business](https://moneyweek.com/488411/paying-to-get-your-shares-back).
 
 This means if you choose a broker who participates in FSCS, you'll choose less risk. On the other hand, if you choose a broker who doesn't participate in FSCS - you'll choose more risk.
 
