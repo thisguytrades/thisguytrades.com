@@ -4,7 +4,7 @@ _First things first: this is not financial advice. This is for educational and e
 
 It's important to decide how you will trade stocks before you start trading stocks. Choose the time when you make rational, logical, informed decisions, when your emotions don't get in a way.
 
-When you have a stock trading plan in place, you're less effected by the emotions that you'll feel when the stock market goes up and down.
+When you have a stock trading plan in place, you're less affected by the emotions that you'll feel when the stock market goes up and down.
 
 And it will go up and down. Unpredictably. Irrationally.
 
