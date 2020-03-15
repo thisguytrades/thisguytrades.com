@@ -192,10 +192,8 @@ strong {
     line-height: 32px;
     font-family: sans-serif;
     font-weight: 100; }
-  .social a {
-    color: #999; }
-    .social a:hover {
-      color: #333; }
+  .social a:hover {
+    color: #333; }
   .social .fa {
     color: inherit; }
   .social .social-buttons {
